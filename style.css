@@ -1,6 +1,11 @@
+body {
+  min-width: 500px;
+}
+
 .main {
   margin: 0 auto;
   width: 70%;
+  padding: 0 10px;
 }
 
 h1,
@@ -24,11 +29,11 @@ th {
 }
 
 figure {
-    float: right;
+  float: right;
 }
 
 figcaption {
-    font-style: italic;
+  font-style: italic;
 }
 
 .float-fix {
